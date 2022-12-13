@@ -1,0 +1,47 @@
+<films>
+    <film>
+        <name>Cobra</name>
+        <genre>action</genre>
+        <year>1986</year>
+        <duration>87 min</duration>
+        <country>USA</country>
+        <country>Israel</country>
+        <rating>6,9</rating>
+    </film>
+    <film>
+        <name>Fall</name>
+        <genre>triller</genre>
+        <year>2022</year>
+        <duration>106 min</duration>
+        <country>Great Britain</country>
+        <rating>6,8</rating>
+    </film>
+    <film>
+        <name>Dirty Harry</name>
+        <genre>action</genre>
+        <year>1971</year>
+        <duration>102 min</duration>
+        <country>USA</country>
+        <rating>7,5</rating>
+    </film>
+    <film>
+        <name>Джентельмены удачи</name>
+        <genre>comedy</genre>
+        <genre>drama</genre>
+        <genre>crime</genre>
+        <year>1971</year>
+        <duration>84 min</duration>
+        <country>USSR</country>
+        <rating>8,5</rating>
+    </film>
+    <film>
+        <name>Zodiac</name>
+        <genre>triller</genre>
+        <genre>detective</genre>
+        <genre>drama</genre>
+        <year>2007</year>
+        <duration>158 min</duration>
+        <country>USA</country>
+        <rating>7,3</rating>
+    </film>
+</films>
